@@ -2,7 +2,6 @@ import React from "react"
 import Card from "./Card"
 
 export default function ResponseSection(props) {
-  console.log(props.cardList)
   const listItems = props.cardList.map((item, index) => {
     return (
       <li key={index}>

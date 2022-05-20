@@ -54,7 +54,6 @@ export default function Main() {
         response: newResult
       }
       setCardList(prevCardList => [newCard, ...prevCardList])
-      console.log([newCard])
   }
 
   async function handleFetch() {
