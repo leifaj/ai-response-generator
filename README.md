@@ -3,6 +3,8 @@ An app that sends text prompts to the OpenAI API and displays the results in a l
 
 [Click here](https://ai-response-generator.herokuapp.com/) to view the app.
 
+<img src="./public/ai-response-generator-demo.gif" width="100%">
+
 ## How It's Made
 **Tech used:** HTML, CSS, JavaScript, React
 
