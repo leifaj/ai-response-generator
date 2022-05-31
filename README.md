@@ -1,5 +1,5 @@
 # AI Response Generator
-An app that sends text prompts to the OpenAI API and displays the results in a list. The AI model generates a text completion that attemps to match whatever context or pattern you give it!
+An app that sends text prompts to the OpenAI API and displays the results in a list. The AI model generates a text completion that attempts to match whatever context or pattern you give it!
 
 [Click here](https://ai-response-generator.herokuapp.com/) to view the app.
 
